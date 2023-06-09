@@ -1,2 +1,9 @@
-# TallerDavidCorrea_C
-Taller de instalación y configuración  de entorno de desarrollo
+# Instalacion y configuracion de entorno de desarrollo
+
+- Autor: David Correa
+- Fecha: 2023-06-08
+
+## Descripcion
+
+## Funcionamiento
+![](Img/imagensu.jpg)
